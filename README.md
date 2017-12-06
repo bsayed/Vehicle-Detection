@@ -146,9 +146,7 @@ the last frame of video:
 
 ---
 
-###Discussion
-
-#### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
+### Discussion
 
 The main issue in the current implementation in my opinion, is the performance. I think 2 or 3 frames 
 per second is not enough for an actual working self-driving car. I tried to tackle this challenge
